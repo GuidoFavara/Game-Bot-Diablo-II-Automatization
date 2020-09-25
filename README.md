@@ -12,7 +12,7 @@ Pensé en dejar lo "facil" seleccionar crear enviar texto, crear partida y salir
 
 
 Problemas encontrados:
-*El camino hasta el portal parecía ser lo mas fácil de hacer, así que empecé, marque la forma mas rápida medi los tiempos de sleep entre cada accion de movimiento lo repeti y estaba contento,
+*El camino hasta el portal parecía ser sencillo, así que empecé, marque la forma mas rápida medi los tiempos de sleep entre cada accion de movimiento lo repeti y estaba contento,
 ahí fue cuando al crear varias partidas y repetir el proceso me dí cuenta que el path puede variar 6 veces con unos simples movimientos del terreno haciendo que entrar
 al portal sea imposible (esto está hecho para evitar este tipo de bot (los cuales desconocía por qué eran centimetros a los cuales en el juego normalmente no se les presta atención) Tuve que 
 encontrar esos 6 mapas darme cuenta donde estaba el error y agregarle mas mouse movements que no interfieran en el resto de partidas para que funcione siempre, la solución fue hacer mas clicks 
