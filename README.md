@@ -14,13 +14,13 @@ Pensé en dejar lo "facil" seleccionar crear enviar texto, crear partida y salir
 Problemas encontrados:
 *El camino hasta el portal parecía ser sencillo, así que empecé, marque la forma mas rápida medi los tiempos de sleep entre cada accion de movimiento lo repeti y estaba contento,
 ahí fue cuando al crear varias partidas y repetir el proceso me dí cuenta que el path puede variar 6 veces con unos simples movimientos del terreno haciendo que entrar
-al portal sea imposible (esto está hecho para evitar este tipo de bot (los cuales desconocía por qué eran centimetros a los cuales en el juego normalmente no se les presta atención) Tuve que 
-encontrar esos 6 mapas darme cuenta donde estaba el error y agregarle mas mouse movements que no interfieran en el resto de partidas para que funcione siempre, la solución fue hacer mas clicks 
-para posisionarme siempre en el mismo lugar antes del cambio del terreno, pero fue solucionado con mucha pasiencia y testeo.
+al portal sea imposible (esto está hecho para evitar este tipo de bot), lo cual desconocía por qué eran centimetros a los cuales en el juego normalmente no se les presta atención) Tuve que:
+encontrar esos 6 mapas darme cuenta donde estaba el error y agregarle mas mouse movements que no interfieran en el resto de partidas para que funcione siempre, la solución fue hacer mas clicks para posisionarme siempre en el mismo lugar antes del cambio del terreno, pero fue solucionado con mucha pasiencia y testeo.
 
 
-*Ahora el problema es como el bot reconoce que el bicho murio y dropeo items, lo scanee y los agarre, lo más logico sería implementar un 
-lector de texto pero es muy complejo y extenso de hacer para solamente un juego. Solución: implementar pixel reader, problema encontrado
+*Ahora el problema es como el bot reconoce que el bicho murio para ello podría implementar pixeles en los bichos para que cuando el pixel desaparezca deje de atacar y empiece a scanear, pero dado que llevaría mucho tiempo y el bicho muere generalmente de 5 ataques o menos, lo ideal fue hacer que siempre ataque 5 veces y listo.
+Ahora el dropeo items una vez terminado el attack debe ejecutar el pixel search para scanear y agarre lo valioso, lo más logico sería implementar un 
+lector de texto pero es muy complejo y extenso de hacer para solamente un juego. Solución: implementar el pixel search, problema encontrado
 los textos en el juego son muy chicos y el pixel reader selecciona la punta del item apenas aparece el color que quiero, solución modificar el texto
 desde la database del juego (mod) pero que funcione online, solución: modificiar los caracteres (font) del juego para crear un elemento que no existe
 que sería una barra del color que eliga para que el bot la busque (sería nuestro item). Aquí surge un problema (no tengo idea de como hacer todo esto,
@@ -46,4 +46,5 @@ y hechos en base a la resolución de mi PC por lo cual escribí todo el código 
 en donde la ventana es abierta, la acomode a la parte superior de esta forma ahora cualquier PC con mi resolucion de pantalla podría funcionar sin problemas no importa si la ventana es movida
 el bot la acomoda, también incorporé un boton de pausa y continuación en caso de necesitar detener el bot se hace con SUPR (puede ser cambiado).
 
-TODO: Interfaz gráfica, aunque al ser de uso personal no lo creo necesario
+TODO: Interfaz gráfica, aunque al ser de uso personal no lo creo necesario, el tiempo lo dirá
+
