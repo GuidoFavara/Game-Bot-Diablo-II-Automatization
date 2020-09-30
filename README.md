@@ -8,6 +8,8 @@ Fotos y guia de configuración.
 
 Guia de edición de tablas en mpq.
 
+Debería buscar la forma de inyectarlo en la memoría a través de mi otro proyecto  de MapHack el cual ya se auto inyecta en la memoria on load
+
 
 # Game-Bot-Diablo-II-Automatization
 
