@@ -1,5 +1,14 @@
 When i have free time i will organize this, it's just a mess for now, i have also to translate everything to english
 
+TODO:
+
+Subir .gif demostrando el funcionamiento.
+
+Fotos y guia de configuración.
+
+Guia de edición de tablas en mpq.
+
+
 # Game-Bot-Diablo-II-Automatization
 
 
