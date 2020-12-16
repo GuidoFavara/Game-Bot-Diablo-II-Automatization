@@ -9,7 +9,7 @@ When i have free time i will organize this, it's just a mess for now, i have als
 Cambios realizados en el juego para ser detectados por el bot:
 
 
-<img src="https://github.com/GuidoFavara/Game-Bot-Diablo-II-Automatization/blob/master/Cambios.jpg?raw=true" width="200" height="200"/>
+<img src="https://github.com/GuidoFavara/Game-Bot-Diablo-II-Automatization/blob/master/Cambios.jpg?raw=true" width="500" height="320"/>
 
 
 La  idea: Un bot que haga un camino repetitivo, entre a un portal, se teletransporte 3 veces, ataque hasta que los bichos mueran
