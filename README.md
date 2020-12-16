@@ -5,6 +5,13 @@ When i have free time i will organize this, it's just a mess for now, i have als
 
 <img align="center" alt="GIF" src="https://github.com/GuidoFavara/Game-Bot-Diablo-II-Automatization/blob/master/t_video5102979892828438749.gif?raw=true" width="500" height="320" />
 
+
+Cambios realizados en el juego para ser detectados por el bot:
+
+
+<img align="center" alt="GIF" src="https://github.com/GuidoFavara/Game-Bot-Diablo-II-Automatization/blob/master/Cambios.jpg?raw=true"width="500" height="320" />
+
+
 La  idea: Un bot que haga un camino repetitivo, entre a un portal, se teletransporte 3 veces, ataque hasta que los bichos mueran
 escanee los items que fueron dropeados y agarre SOLO los que  son de valor
 
