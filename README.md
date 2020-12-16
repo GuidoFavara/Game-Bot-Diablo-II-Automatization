@@ -1,16 +1,5 @@
 When i have free time i will organize this, it's just a mess for now, i have also to translate everything to english
 
-TODO:
-
-Subir .gif demostrando el funcionamiento. Done
-
-Fotos y guia de configuración.
-
-Guia de edición de tablas en mpq.
-
-Debería buscar la forma de inyectarlo en la memoría a través de mi otro proyecto  de MapHack el cual ya se auto inyecta en la memoria on load
-
-Traducir todo esto a ingles
 
 # Game-Bot-Diablo-II-Automatization
 
@@ -61,5 +50,15 @@ y hechos en base a la resolución de mi PC por lo cual escribí todo el código 
 en donde la ventana es abierta, la acomode a la parte superior de esta forma ahora cualquier PC con mi resolucion de pantalla podría funcionar sin problemas no importa si la ventana es movida
 el bot la acomoda, también incorporé un boton de pausa y continuación en caso de necesitar detener el bot se hace con SUPR (puede ser cambiado).
 
-TODO: Interfaz gráfica, aunque al ser de uso personal no lo creo necesario, el tiempo lo dirá
 
+TODO:
+
+Subir .gif demostrando el funcionamiento. Done
+
+Fotos de ejemplos. Done
+
+Guia de edición de tablas en mpq.
+
+Debería buscar la forma de inyectarlo en la memoría a través de mi otro proyecto  de MapHack el cual ya se auto inyecta en la memoria on load
+
+Traducir todo esto a ingles
