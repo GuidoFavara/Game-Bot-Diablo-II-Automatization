@@ -2,7 +2,7 @@ When i have free time i will organize this, it's just a mess for now, i have als
 
 TODO:
 
-Subir .gif demostrando el funcionamiento.
+Subir .gif demostrando el funcionamiento. Done
 
 Fotos y guia de configuración.
 
@@ -14,6 +14,7 @@ Traducir todo esto a ingles
 
 # Game-Bot-Diablo-II-Automatization
 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 La  idea: Un bot que haga un camino repetitivo, entre a un portal, se teletransporte 3 veces, ataque hasta que los bichos mueran
 escanee los items que fueron dropeados y agarre SOLO los que  son de valor
